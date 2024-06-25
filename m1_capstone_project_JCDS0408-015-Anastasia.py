@@ -1,4 +1,4 @@
-# Data Pasien merupakan dictionary dalam list. Karena sebagai list dapat disimpan bersana key dan values, 
+# Data Pasien merupakan dictionary dalam list. Karena sebagai dictionary dapat disimpan bersana key dan values, 
 # serta list dapat diubah/mutable
 dataPasien = [
     {'Nomor Rekam Medis' : 'A122', 'Nama Lengkap' : 'Bang Chan', 'Jenis Kelamin':'L', 'Tanggal Lahir' : {'Tanggal' : 1, 'Bulan' : 1, 'Tahun' : 1997}, 'Asuransi' : 'Swasta', 'Perawatan' : 'Rawat Inap', 'Proses' : 'Sedang Berjalan' },
