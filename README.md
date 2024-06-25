@@ -1,4 +1,4 @@
-# Capstone-Project-
+# Capstone Project
 # __CRUD - Data Pasien Rumah Sakit__
 ##### Capstone Project Modul 1 Purwadhika Job Connector Data Science (JCDS-0408)
 ---
